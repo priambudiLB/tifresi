@@ -1,4 +1,4 @@
-# tifresi: Time Frequency Spectrogram Inversion
+# [fork] tifresi: Time Frequency Spectrogram Inversion
 'tifresi' to be pronounced 'tifreeezy' provide a simple implementation of TF and spectrogam suitable for inversion, i.e. with a high quality phase recovery.
 The phase recovery algorithm used is PGHI (phase gradient heap integration).
 
